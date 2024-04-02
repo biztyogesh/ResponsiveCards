@@ -5,6 +5,25 @@ function ResponsiveCards() {
   return (
     <div className="ag-format-container">
       <div className="ag-courses_box">
+
+      <div className="ag-courses_item">
+          <a href="#" className="ag-courses-item_link">
+            <div className="ag-courses-item_bg"></div>
+
+            <div className="ag-courses-item_title">
+              Front-end development&#160;
+              <p className="title-color">
+                A Front-End Developer is someone who creates websites and web
+                applications.
+              </p>
+            </div>
+
+            <div className="ag-courses-item_date-box">
+              Start:
+              <span className="ag-courses-item_date"> 02-01-2024</span>
+            </div>
+          </a>
+        </div>
         <div className="ag-courses_item">
           <a href="#" className="ag-courses-item_link">
             <div className="ag-courses-item_bg"></div>
@@ -100,24 +119,7 @@ function ResponsiveCards() {
           </a>
         </div>
 
-        <div className="ag-courses_item">
-          <a href="#" className="ag-courses-item_link">
-            <div className="ag-courses-item_bg"></div>
-
-            <div className="ag-courses-item_title">
-              Front-end development&#160;
-              <p className="title-color">
-                A Front-End Developer is someone who creates websites and web
-                applications.
-              </p>
-            </div>
-
-            <div className="ag-courses-item_date-box">
-              Start:
-              <span className="ag-courses-item_date"> 02-01-2024</span>
-            </div>
-          </a>
-        </div>
+       
 
         <div className="ag-courses_item">
           <a href="#" className="ag-courses-item_link">
