@@ -19,7 +19,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">02.04.2024</span>
+              <span className="ag-courses-item_date"> 02-04-2024</span>
             </div>
           </a>
         </div>
@@ -37,7 +37,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">31.03.2024</span>
+              <span className="ag-courses-item_date"> 31-03-2024</span>
             </div>
           </a>
         </div>
@@ -56,7 +56,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">04.04.2024</span>
+              <span className="ag-courses-item_date"> 04-04-2024</span>
             </div>
           </a>
         </div>
@@ -75,7 +75,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">20.03.2024</span>
+              <span className="ag-courses-item_date"> 20-03-2024</span>
             </div>
           </a>
         </div>
@@ -95,7 +95,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">01.01.2024</span>
+              <span className="ag-courses-item_date"> 01-01-2024</span>
             </div>
           </a>
         </div>
@@ -114,7 +114,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">02.01.2024</span>
+              <span className="ag-courses-item_date"> 02-01-2024</span>
             </div>
           </a>
         </div>
@@ -133,7 +133,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">02.01.2024</span>
+              <span className="ag-courses-item_date"> 02-01-2024</span>
             </div>
           </a>
         </div>
@@ -153,7 +153,7 @@ function ResponsiveCards() {
 
             <div className="ag-courses-item_date-box">
               Start:
-              <span className="ag-courses-item_date">12.01.2024</span>
+              <span className="ag-courses-item_date"> 12-01-2024</span>
             </div>
           </a>
         </div>
